@@ -1,0 +1,7 @@
+{
+    "fields": ["constituents"],
+    "symbols": [
+        {"s": "EX:INDEX1", "f": [["NASDAQ:MSFT", "NASDAQ:AAPL"]]},
+        {"s": "EX:INDEX2", "f": [["AMEX:ABC", "AMEX:A", "AMEX:B"]]}
+    ]
+}
