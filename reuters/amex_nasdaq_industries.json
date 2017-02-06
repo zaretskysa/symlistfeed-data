@@ -1,0 +1,22 @@
+{
+    "fields": [
+        "industry", 
+        "sector"
+    ], 
+    "symbols": [
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "AMEX:CANF"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "AMEX:IPB"
+        }
+    ]
+}

@@ -1,0 +1,1065 @@
+{
+    "fields": [
+        "industry", 
+        "sector"
+    ], 
+    "symbols": [
+        {
+            "f": [
+                "Marine Transportation", 
+                "Transportation"
+            ], 
+            "s": "NASDAQ:SHIPW"
+        }, 
+        {
+            "f": [
+                "Medical/Dental Instruments", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:SRTSW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:GALTW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:GLPG"
+        }, 
+        {
+            "f": [
+                "Oil Refining/Marketing", 
+                "Transportation"
+            ], 
+            "s": "NASDAQ:CYRXW"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:LMFAW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:CPAAW"
+        }, 
+        {
+            "f": [
+                "Transportation Services", 
+                "Consumer Services"
+            ], 
+            "s": "NASDAQ:LINDW"
+        }, 
+        {
+            "f": [
+                "Investment Bankers/Brokers/Service", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:XIV"
+        }, 
+        {
+            "f": [
+                "Diversified Commercial Services", 
+                "Consumer Services"
+            ], 
+            "s": "NASDAQ:NXTDW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:RDHL"
+        }, 
+        {
+            "f": [
+                "Other Consumer Services", 
+                "Consumer Services"
+            ], 
+            "s": "NASDAQ:APDNW"
+        }, 
+        {
+            "f": [
+                "Medical/Dental Instruments", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:CYTXW"
+        }, 
+        {
+            "f": [
+                "Biotechnology: Biological Products (No Diagnostic Substances)", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:ONSIW"
+        }, 
+        {
+            "f": [
+                "Hotels/Resorts", 
+                "Consumer Services"
+            ], 
+            "s": "NASDAQ:SOHOM"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:OPXAW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:VKTXW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:PBMD"
+        }, 
+        {
+            "f": [
+                "Medical/Dental Instruments", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:PAVMW"
+        }, 
+        {
+            "f": [
+                "Restaurants", 
+                "Consumer Services"
+            ], 
+            "s": "NASDAQ:HOTRW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:STLRW"
+        }, 
+        {
+            "f": [
+                "Miscellaneous manufacturing industries", 
+                "Consumer Durables"
+            ], 
+            "s": "NASDAQ:JASNW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:RXIIW"
+        }, 
+        {
+            "f": [
+                "Oil & Gas Production", 
+                "Energy"
+            ], 
+            "s": "NASDAQ:SNDE"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:HCACW"
+        }, 
+        {
+            "f": [
+                "Investment Bankers/Brokers/Service", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:UGLD"
+        }, 
+        {
+            "f": [
+                "Commercial Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:TAPR"
+        }, 
+        {
+            "f": [
+                "Telecommunications Equipment", 
+                "Consumer Durables"
+            ], 
+            "s": "NASDAQ:XGTIW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:SMMT"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:CATYW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:GTYHW"
+        }, 
+        {
+            "f": [
+                "Biotechnology: Biological Products (No Diagnostic Substances)", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:BVXVW"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:ZIONW"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:ZIONZ"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:WAFDW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:PACEW"
+        }, 
+        {
+            "f": [
+                "Investment Bankers/Brokers/Service", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:ZIV"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:LCAHW"
+        }, 
+        {
+            "f": [
+                "Investment Bankers/Brokers/Service", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:SLVO"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:QPACW"
+        }, 
+        {
+            "f": [
+                "Property-Casualty Insurers", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:AMBCW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:MIIIW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:CYAD"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:BANFP"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:AHPAW"
+        }, 
+        {
+            "f": [
+                "Telecommunications Equipment", 
+                "Consumer Services"
+            ], 
+            "s": "NASDAQ:SBAC"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:CLACW"
+        }, 
+        {
+            "f": [
+                "Packaged Foods", 
+                "Consumer Non-Durables"
+            ], 
+            "s": "NASDAQ:TWNKW"
+        }, 
+        {
+            "f": [
+                "Major Chemicals", 
+                "Basic Industries"
+            ], 
+            "s": "NASDAQ:DELTW"
+        }, 
+        {
+            "f": [
+                "Electrical Products", 
+                "Technology"
+            ], 
+            "s": "NASDAQ:NNDM"
+        }, 
+        {
+            "f": [
+                "Investment Bankers/Brokers/Service", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:DSLV"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:PAACW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:ABEOW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:WYIGW"
+        }, 
+        {
+            "f": [
+                "Electronic Components", 
+                "Technology"
+            ], 
+            "s": "NASDAQ:MSDIW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:GTYH"
+        }, 
+        {
+            "f": [
+                "Real Estate Investment Trusts", 
+                "Consumer Services"
+            ], 
+            "s": "NASDAQ:WHLRW"
+        }, 
+        {
+            "f": [
+                "Biotechnology: Biological Products (No Diagnostic Substances)", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:DBVT"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:ONTXW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:AGFSW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:HUNTW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:HUNTU"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:HRMNW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:BLRX"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:GPACW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:BNTC"
+        }, 
+        {
+            "f": [
+                "Investment Bankers/Brokers/Service", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:GLDI"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:WTFCW"
+        }, 
+        {
+            "f": [
+                "Restaurants", 
+                "Consumer Services"
+            ], 
+            "s": "NASDAQ:TACOW"
+        }, 
+        {
+            "f": [
+                "Department/Specialty Retail Stores", 
+                "Consumer Services"
+            ], 
+            "s": "NASDAQ:SHLDW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:BNTCW"
+        }, 
+        {
+            "f": [
+                "Medical/Dental Instruments", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:MDVXW"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:TCBIW"
+        }, 
+        {
+            "f": [
+                "Commercial Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:DTUL"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:EYEGW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:MTP"
+        }, 
+        {
+            "f": [
+                "Commercial Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:DFVL"
+        }, 
+        {
+            "f": [
+                "Commercial Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:DFVS"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:SBNYW"
+        }, 
+        {
+            "f": [
+                "Investment Bankers/Brokers/Service", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:DGLD"
+        }, 
+        {
+            "f": [
+                "Computer Software: Prepackaged Software", 
+                "Technology"
+            ], 
+            "s": "NASDAQ:INSEW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:SCAC"
+        }, 
+        {
+            "f": [
+                "Specialty Chemicals", 
+                "Consumer Durables"
+            ], 
+            "s": "NASDAQ:NXEOW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:GRFS"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:MACQW"
+        }, 
+        {
+            "f": [
+                "Biotechnology: Biological Products (No Diagnostic Substances)", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:ONSIZ"
+        }, 
+        {
+            "f": [
+                "Building Products", 
+                "Capital Goods"
+            ], 
+            "s": "NASDAQ:PGTI"
+        }, 
+        {
+            "f": [
+                "Publishing", 
+                "Miscellaneous"
+            ], 
+            "s": "NASDAQ:RRD"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:PVTBP"
+        }, 
+        {
+            "f": [
+                "Commercial Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:DTUS"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:CERCW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:CERCZ"
+        }, 
+        {
+            "f": [
+                "Building Products", 
+                "Capital Goods"
+            ], 
+            "s": "NASDAQ:EACQW"
+        }, 
+        {
+            "f": [
+                "Computer Communications Equipment", 
+                "Technology"
+            ], 
+            "s": "NASDAQ:COYNW"
+        }, 
+        {
+            "f": [
+                "Packaged Foods", 
+                "Consumer Non-Durables"
+            ], 
+            "s": "NASDAQ:RIBTW"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:HVBC"
+        }, 
+        {
+            "f": [
+                "Commercial Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:DLBS"
+        }, 
+        {
+            "f": [
+                "Biotechnology: Biological Products (No Diagnostic Substances)", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:BVXV"
+        }, 
+        {
+            "f": [
+                "Commercial Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:DLBL"
+        }, 
+        {
+            "f": [
+                "Power Generation", 
+                "Public Utilities"
+            ], 
+            "s": "NASDAQ:VVPR"
+        }, 
+        {
+            "f": [
+                "Precision Instruments", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:RNVAZ"
+        }, 
+        {
+            "f": [
+                "Other Specialty Stores", 
+                "Consumer Services"
+            ], 
+            "s": "NASDAQ:FCFS"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:ELECW"
+        }, 
+        {
+            "f": [
+                "Investment Bankers/Brokers/Service", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:USLV"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:CFCOW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:KTOV"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:BPOPN"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:BPOPM"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:JSYNW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:KLREW"
+        }, 
+        {
+            "f": [
+                "Oil & Gas Production", 
+                "Energy"
+            ], 
+            "s": "NASDAQ:CDEVW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:EAGLW"
+        }, 
+        {
+            "f": [
+                "Medical/Dental Instruments", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:NUROW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:OACQW"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:ASRVP"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:SNGXW"
+        }, 
+        {
+            "f": [
+                "Electrical Products", 
+                "Capital Goods"
+            ], 
+            "s": "NASDAQ:MICTW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:ADXSW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:KTOVW"
+        }, 
+        {
+            "f": [
+                "Medical/Dental Instruments", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:DRIOW"
+        }, 
+        {
+            "f": [
+                "Hospital/Nursing Management", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:CBMXW"
+        }, 
+        {
+            "f": [
+                "Biotechnology: Biological Products (No Diagnostic Substances)", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:TROVW"
+        }, 
+        {
+            "f": [
+                "Biotechnology: Electromedical & Electrotherapeutic Apparatus", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:CAPNW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:MTFBW"
+        }, 
+        {
+            "f": [
+                "Medical Electronics", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:CHEKW"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:BPFHW"
+        }, 
+        {
+            "f": [
+                "Commercial Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:TALL"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:ANDAW"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:SIVBO"
+        }, 
+        {
+            "f": [
+                "Commercial Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:STPP"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:OSBCP"
+        }, 
+        {
+            "f": [
+                "Telecommunications Equipment", 
+                "Public Utilities"
+            ], 
+            "s": "NASDAQ:AMOV"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:SNOAW"
+        }, 
+        {
+            "f": [
+                "Services-Misc. Amusement & Recreation", 
+                "Consumer Services"
+            ], 
+            "s": "NASDAQ:MSG"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:BLVDW"
+        }, 
+        {
+            "f": [
+                "Commercial Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:DTYS"
+        }, 
+        {
+            "f": [
+                "Commercial Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:DTYL"
+        }, 
+        {
+            "f": [
+                "Property-Casualty Insurers", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:OXBRW"
+        }, 
+        {
+            "f": [
+                "Medical Specialities", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:OPGNW"
+        }, 
+        {
+            "f": [
+                "Investment Bankers/Brokers/Service", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:VIIZ"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:BHACW"
+        }, 
+        {
+            "f": [
+                "Investment Bankers/Brokers/Service", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:TVIX"
+        }, 
+        {
+            "f": [
+                "Investment Bankers/Brokers/Service", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:TVIZ"
+        }, 
+        {
+            "f": [
+                "Home Furnishings", 
+                "Consumer Durables"
+            ], 
+            "s": "NASDAQ:GPIAW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:AXARW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:CLRBW"
+        }, 
+        {
+            "f": [
+                "Business Services", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:SCACW"
+        }, 
+        {
+            "f": [
+                "Oil & Gas Production", 
+                "Energy"
+            ], 
+            "s": "NASDAQ:ZNWAA"
+        }, 
+        {
+            "f": [
+                "Investment Bankers/Brokers/Service", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:NHLDW"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NASDAQ:FFBCW"
+        }, 
+        {
+            "f": [
+                "Major Pharmaceuticals", 
+                "Health Care"
+            ], 
+            "s": "NASDAQ:CLRBZ"
+        }
+    ]
+}

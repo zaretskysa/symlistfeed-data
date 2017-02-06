@@ -1,0 +1,617 @@
+{
+    "fields": [
+        "industry", 
+        "sector"
+    ], 
+    "symbols": [
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:ZBK"
+        }, 
+        {
+            "f": [
+                "Real Estate Investment Trusts", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:FCH/PA"
+        }, 
+        {
+            "f": [
+                "Property-Casualty Insurers", 
+                "Finance"
+            ], 
+            "s": "NYSE:MHNC"
+        }, 
+        {
+            "f": [
+                "Property-Casualty Insurers", 
+                "Finance"
+            ], 
+            "s": "NYSE:MHNB"
+        }, 
+        {
+            "f": [
+                "Beverages (Production/Distribution)", 
+                "Consumer Non-Durables"
+            ], 
+            "s": "NYSE:ABEV"
+        }, 
+        {
+            "f": [
+                "Natural Gas Distribution", 
+                "Energy"
+            ], 
+            "s": "NYSE:NSS"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:PYT"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:PYS"
+        }, 
+        {
+            "f": [
+                "Power Generation", 
+                "Public Utilities"
+            ], 
+            "s": "NYSE:NMK/PC"
+        }, 
+        {
+            "f": [
+                "Power Generation", 
+                "Public Utilities"
+            ], 
+            "s": "NYSE:NMK/PB"
+        }, 
+        {
+            "f": [
+                "Commercial Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:RBS/PH"
+        }, 
+        {
+            "f": [
+                "Commercial Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:RBS/PF"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:USB/PA"
+        }, 
+        {
+            "f": [
+                "Real Estate Investment Trusts", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:AMH/PA"
+        }, 
+        {
+            "f": [
+                "Real Estate", 
+                "Finance"
+            ], 
+            "s": "NYSE:KWN"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:DXB"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:PIY"
+        }, 
+        {
+            "f": [
+                "Department/Specialty Retail Stores", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:CNCO"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:C/PK"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:XKE"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:JBK"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:JBN"
+        }, 
+        {
+            "f": [
+                "Life Insurance", 
+                "Finance"
+            ], 
+            "s": "NYSE:AEK"
+        }, 
+        {
+            "f": [
+                "Oil & Gas Production", 
+                "Energy"
+            ], 
+            "s": "NYSE:NADL"
+        }, 
+        {
+            "f": [
+                "Investment Managers", 
+                "Finance"
+            ], 
+            "s": "NYSE:MDLX"
+        }, 
+        {
+            "f": [
+                "Railroads", 
+                "Transportation"
+            ], 
+            "s": "NYSE:KSU/P"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:BAC/PW"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:BAC/PY"
+        }, 
+        {
+            "f": [
+                "Department/Specialty Retail Stores", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:DDT"
+        }, 
+        {
+            "f": [
+                "Mining & Quarrying of Nonmetallic Minerals (No Fuels)", 
+                "Basic Industries"
+            ], 
+            "s": "NYSE:HL/PB"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:C/PN"
+        }, 
+        {
+            "f": [
+                "Real Estate Investment Trusts", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:VTRB"
+        }, 
+        {
+            "f": [
+                "Commercial Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:NW/PC"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:OFG/PA"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:GJT"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:DTK"
+        }, 
+        {
+            "f": [
+                "Professional Services", 
+                "Technology"
+            ], 
+            "s": "NYSE:TMH"
+        }, 
+        {
+            "f": [
+                "Oil & Gas Production", 
+                "Energy"
+            ], 
+            "s": "NYSE:CPE/PA"
+        }, 
+        {
+            "f": [
+                "Real Estate Investment Trusts", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:GGP/PA"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:BLW"
+        }, 
+        {
+            "f": [
+                "Major Chemicals", 
+                "Basic Industries"
+            ], 
+            "s": "NYSE:DD/PA"
+        }, 
+        {
+            "f": [
+                "Major Chemicals", 
+                "Basic Industries"
+            ], 
+            "s": "NYSE:DD/PB"
+        }, 
+        {
+            "f": [
+                "Electric Utilities: Central", 
+                "Public Utilities"
+            ], 
+            "s": "NYSE:PPX"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:HJV"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:JPM/PH"
+        }, 
+        {
+            "f": [
+                "Real Estate Investment Trusts", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:PSA/PV"
+        }, 
+        {
+            "f": [
+                "Real Estate Investment Trusts", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:PSA/PU"
+        }, 
+        {
+            "f": [
+                "Real Estate Investment Trusts", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:PSA/PT"
+        }, 
+        {
+            "f": [
+                "Real Estate Investment Trusts", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:PSA/PS"
+        }, 
+        {
+            "f": [
+                "Real Estate Investment Trusts", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:PSA/PE"
+        }, 
+        {
+            "f": [
+                "Real Estate Investment Trusts", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:PSA/PD"
+        }, 
+        {
+            "f": [
+                "Real Estate Investment Trusts", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:PSA/PC"
+        }, 
+        {
+            "f": [
+                "Electric Utilities: Central", 
+                "Basic Industries"
+            ], 
+            "s": "NYSE:AES/PC"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:JPM/PA"
+        }, 
+        {
+            "f": [
+                "Commercial Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:AVAL"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:NFJ"
+        }, 
+        {
+            "f": [
+                "Television Services", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:CCZ"
+        }, 
+        {
+            "f": [
+                "Electric Utilities: Central", 
+                "Public Utilities"
+            ], 
+            "s": "NYSE:GPE/PA"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:VLY/PA"
+        }, 
+        {
+            "f": [
+                "Electric Utilities: Central", 
+                "Public Utilities"
+            ], 
+            "s": "NYSE:ALP/PO"
+        }, 
+        {
+            "f": [
+                "Investment Bankers/Brokers/Service", 
+                "Finance"
+            ], 
+            "s": "NYSE:SF/PA"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:COF/PC"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:KTP"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:KTN"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:KTH"
+        }, 
+        {
+            "f": [
+                "Auto Manufacturing", 
+                "Capital Goods"
+            ], 
+            "s": "NYSE:NAV/PD"
+        }, 
+        {
+            "f": [
+                "Power Generation", 
+                "Public Utilities"
+            ], 
+            "s": "NYSE:CMS/PB"
+        }, 
+        {
+            "f": [
+                "Electric Utilities: Central", 
+                "Public Utilities"
+            ], 
+            "s": "NYSE:EBR"
+        }, 
+        {
+            "f": [
+                "Natural Gas Distribution", 
+                "Public Utilities"
+            ], 
+            "s": "NYSE:EP/PC"
+        }, 
+        {
+            "f": [
+                "Real Estate Investment Trusts", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:PSA/PB"
+        }, 
+        {
+            "f": [
+                "Electric Utilities: Central", 
+                "Public Utilities"
+            ], 
+            "s": "NYSE:TVC"
+        }, 
+        {
+            "f": [
+                "Electric Utilities: Central", 
+                "Public Utilities"
+            ], 
+            "s": "NYSE:TVE"
+        }, 
+        {
+            "f": [
+                "Major Banks", 
+                "Finance"
+            ], 
+            "s": "NYSE:DKT"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:PFH"
+        }, 
+        {
+            "f": [
+                "Consumer Electronics/Appliances", 
+                "Energy"
+            ], 
+            "s": "NYSE:GEK"
+        }, 
+        {
+            "f": [
+                "Consumer Electronics/Appliances", 
+                "Energy"
+            ], 
+            "s": "NYSE:GEB"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:JBR"
+        }, 
+        {
+            "f": [
+                "Miscellaneous", 
+                "Consumer Services"
+            ], 
+            "s": "NYSE:TY/P"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:GJH"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:GJO"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:GJS"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:GJV"
+        }, 
+        {
+            "f": [
+                "Telecommunications Equipment", 
+                "Public Utilities"
+            ], 
+            "s": "NYSE:CTW"
+        }, 
+        {
+            "f": [
+                "Investment Managers", 
+                "Finance"
+            ], 
+            "s": "NYSE:LMHA"
+        }, 
+        {
+            "f": [
+                "Real Estate", 
+                "Finance"
+            ], 
+            "s": "NYSE:IIPR"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:GYC"
+        }, 
+        {
+            "f": [
+                "Finance: Consumer Services", 
+                "Finance"
+            ], 
+            "s": "NYSE:GYB"
+        }
+    ]
+}
